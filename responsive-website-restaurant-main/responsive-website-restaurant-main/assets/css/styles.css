@@ -6,12 +6,12 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  --first-color: #069C54;
-  --first-color-alt: #048654;
+  --first-color: #3282B8;
+  --first-color-alt: #BBE1FA;
   --title-color: #393939;
   --text-color: #707070;
-  --text-color-light: #A6A6A6;
-  --body-color: #FBFEFD;
+  --text-color-light: #FFF;
+  --body-color: #EBEDEE;
   --container-color: #FFFFFF;
 
   /*========== Font and typography ==========*/
@@ -64,10 +64,10 @@ html{
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
-  --title-color: #F1F3F2;
-  --text-color: #C7D1CC;
-  --body-color: #1D2521;
-  --container-color: #27302C;
+  --title-color: #E43F5A;
+  --text-color: #f08092;
+  --body-color: #1B262C;
+  --container-color: #323c41;
 }
 
 /*========== Button Dark/Light ==========*/
